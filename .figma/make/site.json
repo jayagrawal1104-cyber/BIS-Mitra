@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered platform that simplifies compliance with Indian Standards, helping MSMEs, manufacturers, and researchers navigate certification and testing requirements.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
